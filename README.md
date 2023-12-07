@@ -4,10 +4,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-🌆 Daytime                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-🌃 Evening                149 commits         ███████████░░░░░░░░░░░░░░   43.44 % 
-🌙 Night                  102 commits         ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+🌞 Morning                37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+🌆 Daytime                55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+🌃 Evening                151 commits         ███████████░░░░░░░░░░░░░░   43.77 % 
+🌙 Night                  102 commits         ███████░░░░░░░░░░░░░░░░░░   29.57 % 
 ```
 
 
@@ -15,14 +15,10 @@
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 9 mins         █████████████████████████   98.59 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
