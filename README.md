@@ -4,10 +4,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-🌆 Daytime                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-🌃 Evening                217 commits         █████████████░░░░░░░░░░░░   53.98 % 
-🌙 Night                  103 commits         ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+🌞 Morning                35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+🌆 Daytime                47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+🌃 Evening                219 commits         ██████████████░░░░░░░░░░░   54.21 % 
+🌙 Night                  103 commits         ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
 ```
 
 
@@ -15,10 +15,10 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 24 mins       ████████████████████░░░░░   79.30 % 
+TypeScript               3 hrs 24 mins       ████████████████████░░░░░   79.32 % 
 Gherkin                  28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 Properties               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
