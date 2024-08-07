@@ -4,10 +4,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-🌆 Daytime                47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-🌃 Evening                619 commits         ███████████████████░░░░░░   76.99 % 
-🌙 Night                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+🌆 Daytime                47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+🌃 Evening                621 commits         ███████████████████░░░░░░   77.05 % 
+🌙 Night                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 ```
 
 
@@ -15,10 +15,11 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████████████░░░░   84.38 % 
+Text                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
