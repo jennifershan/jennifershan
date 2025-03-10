@@ -5,9 +5,9 @@
 
 ```text
 🌞 Morning                35 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-🌆 Daytime                47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-🌃 Evening                1049 commits        █████████████████████░░░░   84.94 % 
-🌙 Night                  104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+🌆 Daytime                47 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+🌃 Evening                1051 commits        █████████████████████░░░░   84.96 % 
+🌙 Night                  104 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
 
 
@@ -15,11 +15,10 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      5 mins              █████████████████████████   99.72 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
