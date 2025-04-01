@@ -1,6 +1,27 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+🌆 Daytime                47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+🌃 Evening                129 commits         ██████████░░░░░░░░░░░░░░░   40.95 % 
+🌙 Night                  104 commits         ████████░░░░░░░░░░░░░░░░░   33.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
 <!--END_SECTION:waka-->
 
 <!--
